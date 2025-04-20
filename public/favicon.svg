@@ -1,0 +1,15 @@
+
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="100" fill="#3b82f6"/>
+  <!-- Main rocket body -->
+  <path d="M256 120C240 180 230 250 256 350" stroke="white" stroke-width="40" stroke-linecap="round"/>
+  <path d="M256 120C272 180 282 250 256 350" stroke="white" stroke-width="40" stroke-linecap="round"/>
+  
+  <!-- Rocket window -->
+  <circle cx="256" cy="200" r="25" fill="#f97316"/>
+  
+  <!-- Rocket flames -->
+  <path d="M226 350C226 380 216 420 196 440" stroke="#f97316" stroke-width="20" stroke-linecap="round"/>
+  <path d="M256 380C256 410 256 430 256 450" stroke="#f97316" stroke-width="20" stroke-linecap="round"/>
+  <path d="M286 350C286 380 296 420 316 440" stroke="#f97316" stroke-width="20" stroke-linecap="round"/>
+</svg>
